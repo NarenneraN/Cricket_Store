@@ -1,7 +1,7 @@
 # Cricket_Store
 
 
-WEBSITE LINK -> https://narenneran.github.io/Cricket_Store/ 😎
+WEBSITE LINK -> https://narenneran.github.io/Cricket_Store/index.html 😎
 I haven't made as responsive so please checkout below features and how it will look :-
 Frontend Website which features online cricket store
 Features included: 
